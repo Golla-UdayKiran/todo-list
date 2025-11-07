@@ -29,5 +29,7 @@
 3. Make it interactive</p>
 
 <h2>Resources</h2>
+
 <p><a href="https://supersimple.dev/projects/arrays">Arrays</a></p>
-<code>website</code>: https://golla-udaykiran.github.io/todo-list
+
+<code>website</code>: https://todo-list-notes.vercel.app
